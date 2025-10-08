@@ -1,2 +1,3 @@
 # react-practice
-# Practice repo based on freeCodeCamp video
+
+Practice repo based on freeCodeCamp course
